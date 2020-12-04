@@ -1,0 +1,29 @@
+#testimonial{
+    min-height: 700px;
+    max-height: 1000px;
+    position: relative;
+    background-image: url(../assets/img/citação.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 50px;
+}
+#testimonial .testimonial-text-content{
+ padding-top: 27%;
+}
+#testimonial .testimonial-text-content h1{
+    font-size: 200px;
+    color: #4455DD;
+    line-height: 0px;
+}
+#testimonial .testimonial-text-content h3{
+    font-size: 41px;
+    line-height: 53px;
+    color: #ffffff;
+    font-weight: 600;
+}
+#testimonial .testimonial-text-content span{
+    font-size: 20px;
+    color: #AFAFAF;
+    font-weight: 600;
+}

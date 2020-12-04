@@ -1,0 +1,46 @@
+#plans{
+    height: 640px;
+}
+#plans h1{
+    text-align: center;
+    color: #060606;
+    font-size: 42px;
+    line-height: 48px;
+    font-weight: 500;
+    padding-top: 60px;
+    margin-bottom: 0;
+}
+#plans .card{
+    align-items: center;
+    text-align: center;
+    margin-top: 60px;
+    border: none;
+}
+#plans .card img{
+    width: 300px;
+    height: 200px;
+}
+#plans .card h5{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 27px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+#plans .card p{
+    color: #808080;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    margin-bottom: 65px;
+}
+#plans .enter-btn{
+    align-items: center;
+}
+#plans .btn{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 60px;
+}

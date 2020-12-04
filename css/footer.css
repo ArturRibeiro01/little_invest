@@ -1,0 +1,11 @@
+#footer{
+    height: 60px ;
+    background-color: #4455DD;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}
+#footer p{
+    vertical-align: middle;
+    line-height: 60px;
+}

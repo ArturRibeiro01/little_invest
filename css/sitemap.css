@@ -1,0 +1,38 @@
+#sitemap {
+    background: #000000;
+    padding-top: 30px;
+}
+#sitemap .text-title {
+    font-size: 20px;
+    color: #E8E8E8;
+    padding-bottom: 15px;
+}
+#sitemap ul {
+    padding: 0 5px;
+}
+#sitemap li {
+    list-style: none;
+}
+#sitemap .pages li {
+    padding-left: 15px;
+    font-size: 16px;
+    color: #ACACAC;
+}
+
+#sitemap .social li {
+    display: inline;
+}
+
+#sitemap .social img {
+   margin: 0 10px;
+    width: 50px;
+    height: 50px;
+}
+
+#sitemap  p {
+    width: 350px;
+    color: #ACACAC;
+    line-height: 20px;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
