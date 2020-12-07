@@ -11,27 +11,7 @@
 
 }
 
-.bs-stepper{
-    padding-top: 60px;
-    margin-bottom: 100px;
-}
-
-.bs-stepper-header{
-    width: 25%;
-    margin: auto;
-}
-
-.bs-stepper-circle{
-    display: none !important;
-}
-
-.bs-stepper-content {
-    padding: 0 !important;
-}
-#logins-part-trigger{
-    padding: 0;
-    background-color: #4455DD;
-}
-.bs-stepper-circle{
-    display: block;
+.bs-stepper-content{
+height: 100px;
+z-index: 100
 }
